@@ -2,8 +2,8 @@
 
 #!/bin/bash
 # for-in loop to read a list of numbers
-for n in 10 11 17 25 41 11 11 5
+for n in 10 11 17 25 41 11 11 5 17
 do
   # Print each number
-  echo "Your mama is $n"
+  echo "Your printouts is $n"
 done
